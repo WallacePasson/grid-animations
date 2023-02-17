@@ -1,7 +1,3 @@
-# grid-animations
-
-# project-05-grid-animation-advance
-
 <h1 align="center"> Project 05 grid-animation advance</h1>
 
 <p align="center">
