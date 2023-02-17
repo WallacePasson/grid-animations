@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-You can preview the project layout through [THIS LINK](https://www.figma.com/file/yWpGd2phMvt03wMsKmyN1v/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=10%3A17&t=Ey1YrAGAL5MO222f-0). It is necessary to have an account on [Figma](https://figma.com) to access it.
+You can preview the project layout through [THIS LINK](https://www.figma.com/file/SYU5HQ8BeWRT6pvF6ivRqC/Stage-03-Grid-com-anima%C3%A7%C3%B5es-Copy?fuid=897497619085771061?node-id=10%3A17&t=Ey1YrAGAL5MO222f-0). It is necessary to have an account on [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
